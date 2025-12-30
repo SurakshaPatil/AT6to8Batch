@@ -1,4 +1,4 @@
-package CoreJave;
+package CoreJava;
 
 public class Boolean {
 
