@@ -1,4 +1,5 @@
-package CoreJave;
+package CoreJava
+;
 
 public class AssignmentOperator {
 
