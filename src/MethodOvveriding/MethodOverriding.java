@@ -12,7 +12,7 @@ public class MethodOverriding {
         System.out.println("ICICI Rate of Interest: " + b.getRateOfInterest());  
         
         b = new RBI();  
-        System.out.println("AXIS Rate of Interest: " + b.getRateOfInterest());
+        System.out.println("RBI Rate of Interest: " + b.getRateOfInterest());
 	}
 
 }
