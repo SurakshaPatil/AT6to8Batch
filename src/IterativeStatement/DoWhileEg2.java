@@ -3,7 +3,7 @@ package IterativeStatement;
 public class DoWhileEg2 {
 
 	public static void main(String[] args) {
-		int i=1;
+		int i=101;
 		int sum=0;
 		do {
 			if(i%2!=0) {
@@ -12,8 +12,6 @@ public class DoWhileEg2 {
 			}
 			i++;
 		} while(i<=100);
-		//System.out.println("odd numbers are "+sum);
-
 	}
 
 }
