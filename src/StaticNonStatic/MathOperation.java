@@ -1,4 +1,4 @@
-package StatisNonStatic;
+package StaticNonStatic;
 
 public class MathOperation {
 	public static void multiplyNumbers(int a,int b) {
