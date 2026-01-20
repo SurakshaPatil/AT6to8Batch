@@ -1,8 +1,8 @@
-package StatisNonStatic;
+package StaticNonStatic;
 
 public class MaxNumber {
 
-	public static void findMax(int a, int b, int c) {
+	public void findMax(int a, int b, int c) {
         int max;
 
         if (a >= b && a >= c) {
@@ -17,7 +17,8 @@ public class MaxNumber {
     }
 
 	public static void main(String[] args) {
-        findMax(40, 25, 15);
+		MaxNumber m1=new MaxNumber();
+        m1.findMax(40, 25, 15);
 	}
 
 }

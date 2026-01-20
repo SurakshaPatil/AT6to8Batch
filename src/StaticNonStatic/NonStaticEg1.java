@@ -1,4 +1,4 @@
-package StatisNonStatic;
+package StaticNonStatic;
 
 public class NonStaticEg1 {
 

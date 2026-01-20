@@ -7,7 +7,7 @@ public class IfelseEx1 {
  Print "Positive" if it is greater than `0`, otherwise print "Negative		 */
 		 int num = 10;  
 
-	        if (num > 0) {
+	        if (num >= 0) {
 	            System.out.println("Positive Number");
 	        } else {
 	        	System.out.println("Negative Number");
